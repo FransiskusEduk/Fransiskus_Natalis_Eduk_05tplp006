@@ -36,45 +36,45 @@ const modalShowcase = `
 									<p class="fw-bold mb-0 op-5">Please check our docs</p>
 								</div>
 							</div>
-							<a href="../../documentation/index.html" class="btn btn-primary w-100 mb-3">Documentation</a>
+							<a href=index.html class="btn btn-primary w-100 mb-3">Documentation</a>
 							<a href="https://kaiadmin.themekita.com/" class="btn btn-secondary w-100">Buy Now</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo1/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Classic Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo1.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo1.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo2/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									White Classic Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo2.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo2.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo3/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Dark Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo3.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=kaiadmin/demo3.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
@@ -87,72 +87,72 @@ const modalShowcase = `
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo4.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo4.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo5/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Trendy Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo5.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo5.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo6/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Trendy 2 Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo6.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo6.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo7/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Horizontal Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo7.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo7.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo8/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Enterprise Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo8.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo8.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="preview-showcase shadow-sm">
-							<a href="../demo9/index.html" data-kt-href="true" class="preview-thumbnail">
+							<a href=index.html data-kt-href="true" class="preview-thumbnail">
 								<h3 class="preview-title">
 									Futuristic Dashboard	
 								</h3>
 
 								<div class="overflow-hidden">
-									<img src="assets/img/kaiadmin/demo9.png" class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
+									<img src=demo9.png class="w-100 rounded-1 shadow-sm preview-img" data-loaded="true">
 								</div>
 							</a>
 						</div>
